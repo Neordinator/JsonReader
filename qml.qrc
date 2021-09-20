@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>FileForm.qml</file>
+        <file>ParamDouble.qml</file>
+        <file>ParamString.qml</file>
+        <file>ParamInt.qml</file>
+        <file>ParamBool.qml</file>
+    </qresource>
+</RCC>
